@@ -1,6 +1,6 @@
-Origin: qwwz
+Origin: 🇨🇳qwwz
 
-Label: qwwz
+Label: qwwz's repo
 
 Suite: stable
 
@@ -12,4 +12,4 @@ Architectures: iphoneos-arm64
 
 Components: main
 
-Description: 欢迎进群！
+Description: 测试
